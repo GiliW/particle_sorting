@@ -3,7 +3,8 @@
 This repository contains Matlab implementation of our paper "Unsupervised particle sorting for cryo-EM using probabilistic PCA"
 
 # Requirements and Installation
-We recommended the following dependencies.
+We recommend the following dependencies.
+- Matlab 2018b
 - ASPIRE Matlab library (http://spr.math.princeton.edu/)
 
 # Data
